@@ -42,7 +42,7 @@ gyarados.ataques = ["Hidrobomba", "Mordisco", "Burbuja"];
 const blastoise = new TipoAgua("Blastoise", "Player 4", "Agua");
 blastoise.ataques = ["Placaje", "Hidrocañón", "Cascada"];
 
-//Tipo Electrico.
+//Tipo Eléctrico.
 const pikachu = new TipoElectrico("Pikachu", "Player 5", "Eléctrico");
 pikachu.ataques = ["Voltio Cruel", "Impactrueno", "Voltiocambio"];
 
